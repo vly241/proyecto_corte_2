@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3449" topLine="203" />
+		</Cursor>
+		<Folding>
+			<Collapse line="294" />
+			<Collapse line="304" />
+			<Collapse line="317" />
+			<Collapse line="364" />
+			<Collapse line="396" />
+			<Collapse line="411" />
+			<Collapse line="421" />
+			<Collapse line="443" />
+			<Collapse line="468" />
+			<Collapse line="488" />
+			<Collapse line="589" />
+			<Collapse line="654" />
+			<Collapse line="663" />
+			<Collapse line="678" />
+			<Collapse line="688" />
+			<Collapse line="699" />
+			<Collapse line="713" />
+			<Collapse line="778" />
+			<Collapse line="788" />
+			<Collapse line="802" />
+			<Collapse line="833" />
+			<Collapse line="857" />
+		</Folding>
+	</File>
+	<File name="colas.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3883" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="pilas.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3012" topLine="92" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
